@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ScenarioDecisionSystem",
+	"Description": "Scenario Decision System",
+	"Category": "Other",
+	"CreatedBy": "Amadeus",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ScenarioDecisionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
